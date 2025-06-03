@@ -20,7 +20,7 @@ Contains full company information, team profiles, investment philosophy, history
 ## 📁 Resources
 
 - **[Brand Assets](assets/)** - Logos, graphical assets, photos, and videos
-- **[Usage Rights](LICENSE.md)** - Licensing and permissions
+- **[Usage Rights](LICENSE)** - Licensing and permissions
 
 ## 📞 Contact
 
