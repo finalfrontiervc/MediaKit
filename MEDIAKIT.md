@@ -2,7 +2,7 @@
 
 *Updated 03 June 2025*
 
-**By accessing this repository, you acknowledge and agree to our [Usage Rights & Licence](LICENSE.md) terms.**
+**By accessing this repository, you acknowledge and agree to our [Usage Rights & Licence](LICENSE) terms.**
 
 ---
 # Final Frontier (Space & Defence VC)
@@ -136,4 +136,4 @@ Former NATO Secretary General [Anders Fogh Rasmussen](https://en.wikipedia.org/w
 
 **Media Assets:** [View Brand Assets](assets/)
 
-**Usage Rights:** [View Licensing Terms](LICENSE.md)
+**Usage Rights:** [View Licensing Terms](LICENSE)
