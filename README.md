@@ -13,9 +13,9 @@ Final Frontier is a Nordic venture capital firm investing in visionary companies
 
 ## 📋 Media Kit
 
-**[→ View Complete Media Kit](MEDIAKIT.md)**
+**[→ View MediaKit](MEDIAKIT.md)**
 
-Contains full company information, team profiles, investment thesis, history, and contact details.
+Contains full company information, team profiles, investment philosophy, history, and contact details.
 
 ## 📁 Resources
 
