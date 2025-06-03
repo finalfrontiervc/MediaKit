@@ -126,7 +126,7 @@ Former NATO Secretary General [Anders Fogh Rasmussen](https://en.wikipedia.org/w
 
 **Media Inquiries:** [media@finalfrontier.vc](mailto:media@finalfrontier.vc)
 
-**General Contact:** [hello@finalfrontier.vc](mailto:hello@finalfrontier.vc)
+**General Contact:** [contact@finalfrontier.vc](mailto:contact@finalfrontier.vc)
 
 **Social Media:**
 - [LinkedIn](https://www.linkedin.com/company/finalfrontiervc/)
