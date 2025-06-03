@@ -1,7 +1,7 @@
 <a href="https://finalfrontier.vc" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/finalfrontiervc/MediaKit/refs/heads/main/assets/images/media-kit-logo-W.png" style="max-width: 100%; width: 100px; margin-bottom: 20px">
-    <img alt="Final Frontier VC Logo" src="https://raw.githubusercontent.com/finalfrontiervc/MediaKit/refs/heads/main/assets/images/media-kit-logo-B.png" width="100px">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/finalfrontiervc/MediaKit/refs/heads/main/assets/images/media-kit-logo-W.png" style="max-width: 100%; width: 250px; margin-bottom: 40px">
+    <img alt="MediaKit of Final Frontier VC Logo" src="https://raw.githubusercontent.com/finalfrontiervc/MediaKit/refs/heads/main/assets/images/media-kit-logo-B.png" width="250px">
   </picture>
 </a>
 
