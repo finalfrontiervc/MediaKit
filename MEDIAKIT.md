@@ -1,28 +1,37 @@
-# Final Frontier (Space & Defence VC)
+# MediaKit
 
 *Updated 03 June 2025*
 
-**By accessing our website and this repository, you acknowledge and agree to our [Usage Rights & Licence](LICENSE.md) terms.**
+**By accessing this repository, you acknowledge and agree to our [Usage Rights & Licence](LICENSE.md) terms.**
 
 ---
+# Final Frontier (Space & Defence VC)
 
 ## Company Overview
 
-**Company type:** [Venture Capital](https://en.wikipedia.org/wiki/Venture_capital) (VC) [Investment Fund](https://en.wikipedia.org/wiki/Investment_fund)  
-**Motto:** 🟦🟥🟧🟨 Backing the Visionaries in European Space & Defence  
-**Investing In (Industry):** Space and Defence  
-**Investing In (Geography):** Europe (EU+UK+Switzerland+Norway)  
-**Investing In (Preferred Stage):** [Pre-Seed/Seed](https://en.wikipedia.org/wiki/Venture_round)  
-**Founded:** 2024  
-**Headquarters:** [Copenhagen, Denmark](https://en.wikipedia.org/wiki/Copenhagen,_Denmark)  
-**Capital under management:** €4.5M (2025)  
-**Website:** [www.finalfrontier.vc](https://finalfrontier.vc)  
+**Company type:** [Venture Capital](https://en.wikipedia.org/wiki/Venture_capital) (VC) [Investment Fund](https://en.wikipedia.org/wiki/Investment_fund)
+
+**Motto:** 🟦🟥🟧🟨 Backing the Visionaries in European Space & Defence
+
+**Investing In (Industry):** Space and Defence
+
+**Investing In (Geography):** Europe (EU+UK+Switzerland+Norway)
+
+**Investing In (Preferred Stage):** [Pre-Seed/Seed](https://en.wikipedia.org/wiki/Venture_round)
+
+**Founded:** 2024
+
+**Headquarters:** [Copenhagen, Denmark](https://en.wikipedia.org/wiki/Copenhagen,_Denmark)
+
+**Capital under management:** €4.5M (2025)
+
+**Website:** [www.finalfrontier.vc](https://finalfrontier.vc)
 
 **Social Media:** [LinkedIn](https://www.linkedin.com/company/finalfrontiervc/), [X (Twitter)](https://x.com/ffrontier_vc), [YouTube](https://www.youtube.com/channel/UCHvXTktEe7sBTQ5AieLq4QA), [Instagram](https://www.instagram.com/finalfrontiervc/)
 
-**Key people:** [Niels Vejrup Carlsen](https://www.linkedin.com/in/nielsvejrupcarlsen/), [Martin Majercin](https://www.linkedin.com/in/monsfrost/), [Ulrik Jørring](https://www.linkedin.com/in/ulrik-j%C3%B8rring-08559/), [Dan Hermansen](https://www.linkedin.com/in/dan-d-s-hermansen-7a16643/), [Niels Buus](https://www.linkedin.com/in/nielsbuus/), Christian Andersen  
+**Key people:** [Niels Vejrup Carlsen](https://www.linkedin.com/in/nielsvejrupcarlsen/), [Martin Majercin](https://www.linkedin.com/in/monsfrost/), [Ulrik Jørring](https://www.linkedin.com/in/ulrik-j%C3%B8rring-08559/), [Dan Hermansen](https://www.linkedin.com/in/dan-d-s-hermansen-7a16643/), [Niels Buus](https://www.linkedin.com/in/nielsbuus/), Christian Andersen
 
-**Notable supporters:** [Anders Fogh Rasmussen](https://en.wikipedia.org/wiki/Anders_Fogh_Rasmussen), [Michael Holm](https://www.linkedin.com/in/michael-holm-3495283/), [Christian Herskind](https://www.linkedin.com/in/christian-herskind-3891172/), [Nicolaj Højer Nielsen](https://www.linkedin.com/in/nicolajnielsen/), [Sebastian A. Thomsen](https://www.linkedin.com/in/sebastian-a-thomsen/), [Mads Peter Veiby](https://www.linkedin.com/in/mads-peter-veiby/)  
+**Notable supporters:** [Anders Fogh Rasmussen](https://en.wikipedia.org/wiki/Anders_Fogh_Rasmussen), [Michael Holm](https://www.linkedin.com/in/michael-holm-3495283/), [Christian Herskind](https://www.linkedin.com/in/christian-herskind-3891172/), [Nicolaj Højer Nielsen](https://www.linkedin.com/in/nicolajnielsen/), [Sebastian A. Thomsen](https://www.linkedin.com/in/sebastian-a-thomsen/), [Mads Peter Veiby](https://www.linkedin.com/in/mads-peter-veiby/)
 
 ---
 
@@ -58,11 +67,11 @@ Looking ahead, Final Frontier plans to raise a significantly larger fund in 2026
 
 ## Investment Philosophy
 
-Final Frontier's investment thesis is built on the belief that Europe must reclaim its position as a global leader in space and defence to maintain strategic [autonomy](https://en.wikipedia.org/wiki/Autonomy). The fund's [manifesto](https://finalfrontier.vc/manifesto), **["Europe Once Led the World. It's Time to Lead Again,"](https://finalfrontier.vc/manifesto)** articulates this vision, arguing that Europe has traded ambition for comfort, innovation for regulation, and talking over doing, becoming a spectator while other powers race to build the future.
+Final Frontier's investment thesis is built on the belief that Europe must reclaim its position as a global leader in space and defence to maintain strategic [autonomy](https://en.wikipedia.org/wiki/Autonomy). The fund's [manifesto](https://finalfrontier.vc/manifesto), ["Europe Once Led the World. It's Time to Lead Again,"](https://finalfrontier.vc/manifesto) articulates this vision, arguing that Europe has traded ambition for comfort, innovation for regulation, and talking over doing, becoming a spectator while other powers race to build the future.
 
-The fund advocates for adding defence considerations to Environmental, Social, and Governance (ESG) investment criteria, arguing that security should be considered alongside environmental and social goals. This concept, referred to as **"putting D into ESG,"** proposes that Europe must elevate defence to equal status alongside existing environmental and social priorities.
+The fund advocates for adding defence considerations to Environmental, Social, and Governance (ESG) investment criteria, arguing that security should be considered alongside environmental and social goals. This concept, referred to as "putting D into ESG," proposes that Europe must elevate defence to equal status alongside existing environmental and social priorities.
 
-The fund frames this as an ethical imperative, arguing that **"the most ethical thing right now is to invest in technology that can protect democracy."**
+The fund frames this as an ethical imperative, arguing that "the most ethical thing right now is to invest in technology that can protect democracy."
 
 Final Frontier emphasizes the strategic importance of space, noting that control of assets in orbit is becoming as crucial as historical control of seas, hilltops, and skies. The fund highlights how space assets have become critical national infrastructure, arguing that European strategic autonomy depends on the ability to produce, control, replace, and maintain these assets independently.
 
@@ -73,8 +82,6 @@ The fund has identified the New Nordic region as uniquely positioned to lead in 
 ## Investment Strategy
 
 Final Frontier focuses on [pre-seed and seed-stage investments](https://en.wikipedia.org/wiki/Venture_round) across the European continent, with particular emphasis on the New Nordic region. The fund targets startups building [technologies](https://en.wikipedia.org/wiki/Technology) across the entire space and defence value chain, including [satellite systems](https://en.wikipedia.org/wiki/Satellite), [propulsion systems](https://en.wikipedia.org/wiki/Propulsion), [drone technologies](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle), [cybersecurity](https://en.wikipedia.org/wiki/Computer_security), and [autonomous](https://en.wikipedia.org/wiki/Autonomy) [platforms](https://en.wikipedia.org/wiki/Computing_platform).
-
-### Investment Criteria
 
 The firm's investment criteria target:
 
@@ -115,15 +122,18 @@ Former NATO Secretary General [Anders Fogh Rasmussen](https://en.wikipedia.org/w
 
 ## Contact Information
 
-**Website:** [finalfrontier.vc](https://finalfrontier.vc)  
-**Media Inquiries:** [media@finalfrontier.vc](mailto:media@finalfrontier.vc)  
-**General Contact:** [hello@finalfrontier.vc](mailto:hello@finalfrontier.vc)  
+**Website:** [finalfrontier.vc](https://finalfrontier.vc)
 
-**Social Media:**  
-- [LinkedIn](https://www.linkedin.com/company/finalfrontiervc/)  
-- [X (Twitter)](https://x.com/ffrontier_vc)  
-- [YouTube](https://www.youtube.com/channel/UCHvXTktEe7sBTQ5AieLq4QA)  
-- [Instagram](https://www.instagram.com/finalfrontiervc/)  
+**Media Inquiries:** [media@finalfrontier.vc](mailto:media@finalfrontier.vc)
 
-**Media Assets:** [View Brand Assets](assets/)  
+**General Contact:** [hello@finalfrontier.vc](mailto:hello@finalfrontier.vc)
+
+**Social Media:**
+- [LinkedIn](https://www.linkedin.com/company/finalfrontiervc/)
+- [X (Twitter)](https://x.com/ffrontier_vc)
+- [YouTube](https://www.youtube.com/channel/UCHvXTktEe7sBTQ5AieLq4QA)
+- [Instagram](https://www.instagram.com/finalfrontiervc/)
+
+**Media Assets:** [View Brand Assets](assets/)
+
 **Usage Rights:** [View Licensing Terms](LICENSE.md)
