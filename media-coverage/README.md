@@ -9,6 +9,7 @@ The coverage is sorted from the newest to oldest.
 - https://kapwatch.dk/nyheder/venturefonde/article18247008.ece
 - https://www.shifter.no/nyheter/forsvarsveteraner-lander-storrunde/401859
 - https://investinodense.dk/defence-startup-blinktroll-secures-e1-5-million-in-pre-seed-funding-to-advance-next-gen-combat-tech-for-nato-allies/
+- https://www.odenserobotics.dk/defence-startup-blinktroll-secures-e1-5-million-in-pre-seedfunding-to-advance-next-gen-combat-tech-for-nato-allies/
 
 ### Launch of Fund I - LiftOff (7th of May 2025)
 - https://tech.eu/2025/05/07/former-nato-secretary-backs-final-frontiers-defencetech-fund/ 
