@@ -5,6 +5,7 @@ If there is anything missing, please reach out to media@finalfrontier.vc
 The coverage is sorted from the newest to oldest.
 
 ### BlinkTroll Investment (3rd of June 2025)
+- https://24victoria.dk/defense-and-national-security/soldatertraening
 - https://kapwatch.dk/nyheder/venturefonde/article18247008.ece
 - https://www.shifter.no/nyheter/forsvarsveteraner-lander-storrunde/401859
 - https://investinodense.dk/defence-startup-blinktroll-secures-e1-5-million-in-pre-seed-funding-to-advance-next-gen-combat-tech-for-nato-allies/
