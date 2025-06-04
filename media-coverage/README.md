@@ -1,4 +1,4 @@
-# Press Release Archive
+# Media Coverage Archive
 ## In this archive you can find all media coverage around Final Frontier
 
 If there is anything missing, please reach out to media@finalfrontier.vc
