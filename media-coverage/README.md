@@ -5,6 +5,7 @@ If there is anything missing, please reach out to media@finalfrontier.vc
 The coverage is sorted from the newest to oldest.
 
 ### BlinkTroll Investment (3rd of June 2025)
+- https://fyens.dk/erhverv/rejser-11-millioner-til-at-ramme-fjender-i-bevaegelse-startup-satser-paa-dynamisk-kamptraening?teaser-referral=b04332cf-59ad-4e51-8a7d-ca6427eaaf3d-20
 - https://24victoria.dk/defense-and-national-security/soldatertraening
 - https://kapwatch.dk/nyheder/venturefonde/article18247008.ece
 - https://www.shifter.no/nyheter/forsvarsveteraner-lander-storrunde/401859
