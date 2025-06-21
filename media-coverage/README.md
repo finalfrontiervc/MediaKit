@@ -4,6 +4,9 @@
 If there is anything missing, please reach out to media@finalfrontier.vc
 The coverage is sorted from the newest to oldest.
 
+### Meet Niels Vejrup Carlsen from Final Frontier (19th of June 2025)
+https://24victoria.dk/defence-and-national-security/final-frontier
+
 ### BlinkTroll Investment (3rd of June 2025)
 - https://fyens.dk/erhverv/rejser-11-millioner-til-at-ramme-fjender-i-bevaegelse-startup-satser-paa-dynamisk-kamptraening?teaser-referral=b04332cf-59ad-4e51-8a7d-ca6427eaaf3d-20
 - https://24victoria.dk/defense-and-national-security/soldatertraening
