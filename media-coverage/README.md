@@ -4,6 +4,9 @@
 If there is anything missing, please reach out to media@finalfrontier.vc
 The coverage is sorted from the newest to oldest.
 
+### Background story of Final Frontier (16th of September 2025)
+https://finans.dk/tech/ECE18533674/investor-vi-er-nok-20-aar-bagud-i-europa-paa-den-del-men-vi-kan-ikke-bare-saette-os-ned-og-give-op
+
 ### Meet Niels Vejrup Carlsen from Final Frontier (19th of June 2025)
 https://24victoria.dk/defence-and-national-security/final-frontier
 
