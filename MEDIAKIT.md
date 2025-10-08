@@ -33,7 +33,7 @@
 
 **Notable supporters:** [Anders Fogh Rasmussen](https://en.wikipedia.org/wiki/Anders_Fogh_Rasmussen), [Michael Holm](https://www.linkedin.com/in/michael-holm-3495283/), [Christian Herskind](https://www.linkedin.com/in/christian-herskind-3891172/), [Nicolaj Højer Nielsen](https://www.linkedin.com/in/nicolajnielsen/), [Sebastian A. Thomsen](https://www.linkedin.com/in/sebastian-a-thomsen/), [Mads Peter Veiby](https://www.linkedin.com/in/mads-peter-veiby/)
 
-**Investments:** [Blinktroll (2025)](https://finalfrontier.vc/newsroom/03062025)
+**Investments:** [See full portfolio](https://finalfrontier.vc/portfolio)
 
 ---
 
